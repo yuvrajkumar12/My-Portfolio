@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Arvind Sharma</h3>
+          <h3>Designed and Developed by Yuvraj kumar</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} mvrx</h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/monk0707"
+                href="https://github.com/yuvrajkumar12"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             {/* <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://twitter.com/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li> */}
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/arvind-sharma-3884a2205/"
+                href="https://www.linkedin.com/in/yuvrajkumar12/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/arvind_mvrx/"
+                href="https://www.instagram.com/maurya_yuvraj44/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
